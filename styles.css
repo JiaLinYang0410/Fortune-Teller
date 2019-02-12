@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    background-image: url("https://stmed.net/sites/default/files/night-wallpapers-27989-3250901.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: white;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 30px;
+}
+input{
+    width:280px;
+    height: 35px;
+    font-family: 'Amatic SC', cursive;
+    font-size: 23px;
+}
+button {
+    width: 200px;   
+    height: 50px;
+    font-size: 35px;
+    background: black;
+    color: white;
+    border-radius: 10px;
+    border: solid white 3px;
+    font-family: 'Amatic SC', cursive;
+}
+button:hover{
+    background-color: #414887;
+}
